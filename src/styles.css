@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+article {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  background: red;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 10px;
+}
