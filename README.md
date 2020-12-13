@@ -1,2 +1,2 @@
 # duplicateSquares2
-Created with CodeSandbox
+Fill the 2D plane by repeatedly duplicating squares
